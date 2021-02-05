@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0f30906-68ef-4188-88a6-dcc1c2ecf888" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Пример проекта для MacOS 1" />
+  </component>
+  <component name="ProjectId" id="1k1fxoGJKHeIeDYRhy80bM8fzpR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson4" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0f30906-68ef-4188-88a6-dcc1c2ecf888" name="Default Changelist" comment="" />
+      <created>1604873266134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604873266134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="850" y="249" width="374" height="347" key="FileChooserDialogImpl" timestamp="1612507742636">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="2519" y="310" width="424" height="484" key="FileChooserDialogImpl/1280.0.1920.1080/0.82.1280.800@1280.0.1920.1080" timestamp="1605010109306" />
+    <state x="850" y="249" width="374" height="347" key="FileChooserDialogImpl/67.27.1213.773@67.27.1213.773" timestamp="1612507742636" />
+    <state x="477" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1612507634933">
+      <screen x="67" y="27" width="1213" height="773" />
+    </state>
+    <state x="1929" y="380" key="com.intellij.ide.util.TipDialog/1280.0.1920.1080/0.82.1280.800@1280.0.1920.1080" timestamp="1606220147491" />
+    <state x="477" y="299" key="com.intellij.ide.util.TipDialog/67.27.1213.773@67.27.1213.773" timestamp="1612507634933" />
+  </component>
+</project>

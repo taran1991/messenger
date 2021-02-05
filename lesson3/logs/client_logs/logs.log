@@ -1,0 +1,723 @@
+2020-10-22 16:55:16,942 CRITICAL client_log_config.py Критическая ошибка
+2020-10-22 16:55:16,942 ERROR client_log_config.py Ошибка
+2020-10-22 16:55:16,943 DEBUG client_log_config.py Отладочная информация
+2020-10-22 16:55:16,943 INFO client_log_config.py Информационное сообщение
+2020-10-22 16:55:36,846 CRITICAL client_log_config.py Критическая ошибка
+2020-10-22 16:55:36,846 ERROR client_log_config.py Ошибка
+2020-10-22 16:55:36,846 DEBUG client_log_config.py Отладочная информация
+2020-10-22 16:55:36,846 INFO client_log_config.py Информационное сообщение
+2020-10-22 17:35:48,544 CRITICAL client_log_config.py Критическая ошибка
+2020-10-22 17:35:48,544 ERROR client_log_config.py Ошибка
+2020-10-22 17:35:48,544 DEBUG client_log_config.py Отладочная информация
+2020-10-22 17:35:48,544 INFO client_log_config.py Информационное сообщение
+2020-10-22 17:38:29,263 CRITICAL logs_utils.py Критическая ошибка
+2020-10-22 17:38:29,263 ERROR logs_utils.py Ошибка
+2020-10-22 17:38:29,263 DEBUG logs_utils.py Отладочная информация
+2020-10-22 17:38:29,263 INFO logs_utils.py Информационное сообщение
+2020-10-22 17:50:01,034 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Thu Oct 22 17:50:01 2020', 'user': {'account': 'guest'}}
+2020-10-22 17:50:01,772 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Thu Oct 22 17:50:01 2020', 'user': {'account': 'guest'}}
+2020-10-22 17:50:02,389 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Thu Oct 22 17:50:02 2020', 'user': {'account': 'guest'}}
+main.py2020-10-23 01:10:43,525 CRITICAL logs_utils.py Критическая ошибка
+main.py2020-10-23 01:10:43,526 ERROR logs_utils.py Ошибка
+main.py2020-10-23 01:10:43,527 DEBUG logs_utils.py Отладочная информация
+main.py2020-10-23 01:10:43,528 INFO logs_utils.py Информационное сообщение
+2020-10-23 01:13:03,213 CRITICAL logs_utils.py Критическая ошибка
+2020-10-23 01:13:03,213 ERROR logs_utils.py Ошибка
+2020-10-23 01:13:03,213 DEBUG logs_utils.py Отладочная информация
+2020-10-23 01:13:03,213 INFO logs_utils.py Информационное сообщение
+2020-10-23 01:13:17,061 CRITICAL logs_utils.py Критическая ошибка
+2020-10-23 01:13:17,062 ERROR logs_utils.py Ошибка
+2020-10-23 01:13:17,062 DEBUG logs_utils.py Отладочная информация
+2020-10-23 01:13:17,062 INFO logs_utils.py Информационное сообщение
+2020-10-23 01:17:42,533 DEBUG decos.py  функции ppp().Вызов из функции <module>
+2020-10-23 01:44:39,746 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Fri Oct 23 01:44:39 2020', 'user': {'account': 'guest'}}
+2020-10-23 01:44:39,746 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Fri Oct 23 01:44:39 2020', 'user': {'account': 'guest'}}
+2020-10-23 01:45:58,138 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Fri Oct 23 01:45:58 2020', 'user': {'account': 'guest'}}
+2020-10-23 01:45:58,138 DEBUG client.py клиент отправил сообщение {'action': 'presence', 'time': 'Fri Oct 23 01:45:58 2020', 'user': {'account': 'guest'}}
+2020-10-23 02:06:39,281 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-10-23 02:06:39,281 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-10-23 02:06:39,282 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-10-23 02:06:39,282 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2020-10-23 02:16:56,008 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля decos. Вызов изВызов из функции main
+2020-10-23 02:16:56,008 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля decos. Вызов изВызов из функции main
+2020-10-23 02:16:56,009 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля decos. Вызов изВызов из функции main
+2020-10-23 02:16:56,009 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля decos. Вызов изВызов из функции main
+2020-10-23 02:18:28,896 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client. Вызов изВызов из функции main
+2020-10-23 02:18:28,896 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client. Вызов изВызов из функции main
+2020-10-23 02:18:28,897 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client. Вызов изВызов из функции main
+2020-10-23 02:18:28,897 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client. Вызов изВызов из функции main
+2020-10-23 02:19:09,112 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:19:09,112 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:19:09,112 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:19:09,112 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:20:22,351 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:20:22,351 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:20:22,351 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:20:22,351 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:21:46,181 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:21:46,181 client.py decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:21:46,181 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:21:46,181 client.py decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:22:21,644 DEBUG decos.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:22:21,644 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:22:21,645 DEBUG decos.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:22:21,645 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:29:54,010 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:29:54,010 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:34:26,525 CRITICAL logs_utils.py Критическая ошибка
+2020-10-23 02:34:26,525 ERROR logs_utils.py Ошибка
+2020-10-23 02:34:26,525 DEBUG logs_utils.py Отладочная информация
+2020-10-23 02:34:26,525 INFO logs_utils.py Информационное сообщение
+2020-10-23 02:34:26,527 CRITICAL logs_utils.py Критическая ошибка
+2020-10-23 02:34:26,527 ERROR logs_utils.py Ошибка
+2020-10-23 02:34:26,527 DEBUG logs_utils.py Отладочная информация
+2020-10-23 02:34:26,527 INFO logs_utils.py Информационное сообщение
+2020-10-23 02:36:12,751 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:36:12,752 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:36:55,120 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:36:55,121 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:37:02,734 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:37:02,735 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:39:28,708 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-23 02:39:28,709 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,030 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,035 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,035 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,041 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,041 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:42:30,041 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:52:06,660 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:52:06,661 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:52:18,116 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:52:18,117 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:52:48,781 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('привет',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:03,301 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('лоывра',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:04,581 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:05,301 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('фыв',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:05,813 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:06,349 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('фыв',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:06,853 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('фыв',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:07,381 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 12:53:08,231 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('фыв',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:08,856 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:08,856 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:11,357 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:11,358 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:20,789 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:20,789 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:24:37,672 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('l;das',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:25:14,327 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dasdas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:26:33,089 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:26:33,089 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:26:57,248 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:26:57,248 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:27:34,782 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:27:34,782 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:27:59,412 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:27:59,413 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:28:14,532 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('kjljk',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:28:20,709 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('lkj',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:29:50,269 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:29:50,269 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:31:29,165 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:31:29,165 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:31:40,340 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:31:40,340 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:33:07,956 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:33:07,956 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:33:12,441 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('cvxv',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:19,244 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:19,245 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:22,947 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:22,947 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:25,983 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:25,984 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:29,660 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:29,661 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:30,962 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:30,962 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:41,873 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:34:41,874 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:35:56,910 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:35:56,911 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:36:18,368 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:36:18,368 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:37:10,879 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:37:10,880 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:37:12,638 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:37:12,639 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:38:47,580 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:38:47,581 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:23,263 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:23,264 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:24,780 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:24,781 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:57,807 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:39:57,808 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:40:33,233 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:40:33,234 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:15,615 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:15,616 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:19,641 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:19,642 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:22,780 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:42:22,781 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:44:57,300 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:44:57,301 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:45:44,534 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:45:44,534 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:00,572 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:00,572 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:04,623 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:04,624 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:13,421 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:13,422 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:27,243 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:47:27,244 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:48:48,607 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:48:48,608 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:48:52,865 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('hgfghf',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:01,148 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:01,149 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:09,066 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('hfghfg',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:18,385 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:18,386 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:22,737 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('ghfg',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:49:25,026 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('hfghf',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:50:59,609 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:50:59,610 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:05,297 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:05,298 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:09,294 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:09,295 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:26,227 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:26,228 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:29,110 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:51:29,111 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:52:55,978 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:52:55,979 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:53:01,937 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:53:01,938 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:53:42,748 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-10-30 15:53:42,749 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:32:35,258 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:32:35,269 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:33:14,220 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:33:14,221 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:34:24,237 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('jkjsad',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:36:20,984 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:36:20,984 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:36:40,218 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:36:40,219 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:36:49,892 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('SADASD',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:38:34,790 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:38:34,790 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:38:55,061 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('oljljl',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:39:22,959 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:39:22,960 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:39:26,309 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:39:26,309 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:40:53,253 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:40:53,254 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:40:57,015 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:40:57,015 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:42:40,263 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:42:40,263 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:42:44,437 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:42:44,437 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:43:02,425 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:43:02,425 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:43:05,377 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 10:43:05,378 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:36,169 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:36,170 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:39,642 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:39,642 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:44,920 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('khk',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:06:52,160 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами (',kljhkjhkj',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:00,801 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:00,801 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:05,636 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:05,636 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:11,491 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('lkjjkjlkj',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:16:26,290 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами (";'ll;lk",), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:16,391 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:16,392 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:20,289 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:20,290 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:23,119 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dfsd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:19:31,135 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('kljljlklkjkl',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:23,765 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:23,766 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:26,725 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:26,726 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:32,708 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:22:39,028 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasdasdasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:25:51,850 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:25:51,851 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:26:13,035 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:26:13,035 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:26:25,697 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sdasdasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:28:19,170 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:28:19,171 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:28:26,632 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:31:47,392 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:31:47,392 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:31:52,583 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:32:45,271 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:32:45,271 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:32:49,366 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:33:05,649 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:33:05,650 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:33:08,742 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sdfsd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:33:19,574 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:34:54,916 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:34:54,917 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:35:00,876 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:35:00,877 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:35:07,229 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sdasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:39:20,439 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:39:20,440 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:39:23,797 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:39:23,798 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:39:28,251 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('fdss',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:40:08,413 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:40:08,414 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:40:13,100 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:40:13,100 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:40:22,010 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами (';k;kl',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:41:03,932 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:41:03,932 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:41:07,062 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:41:07,062 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:41:09,658 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sdas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:29,884 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:29,884 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:33,211 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:33,211 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:36,673 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdsa',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:42:44,185 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('kljklkl;j',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:36,507 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:36,507 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:36,508 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:36,508 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:37,003 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:37 2020', 'alert': 'OK'}
+2020-11-03 11:51:37,003 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:37 2020', 'alert': 'OK'}
+2020-11-03 11:51:42,066 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:42,066 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:42,067 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:42,067 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:42,562 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:42 2020', 'alert': 'OK'}
+2020-11-03 11:51:42,562 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:42 2020', 'alert': 'OK'}
+2020-11-03 11:51:54,606 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:54,606 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:54,607 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:54,607 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:55,102 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:55 2020', 'alert': 'OK'}
+2020-11-03 11:51:55,102 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:51:55 2020', 'alert': 'OK'}
+2020-11-03 11:51:59,429 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('fdsfsd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:51:59,429 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('fdsfsd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:16,213 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:16,213 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:16,214 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:16,214 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:16,709 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:52:16 2020', 'alert': 'OK'}
+2020-11-03 11:52:16,709 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:52:16 2020', 'alert': 'OK'}
+2020-11-03 11:52:18,365 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasda',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:52:18,365 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasda',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:54:49,603 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:54:49,603 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:54:49,603 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:54:49,603 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:55:09,637 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:09,637 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:09,637 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:09,637 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:10,132 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:10 2020', 'alert': 'OK'}
+2020-11-03 11:55:10,132 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:10 2020', 'alert': 'OK'}
+2020-11-03 11:55:14,077 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:14,077 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:14,077 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:14,077 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:14,572 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:14 2020', 'alert': 'OK'}
+2020-11-03 11:55:14,572 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:14 2020', 'alert': 'OK'}
+2020-11-03 11:55:18,638 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:18,638 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:18,639 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:18,639 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:19,134 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:19 2020', 'alert': 'OK'}
+2020-11-03 11:55:19,134 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:19 2020', 'alert': 'OK'}
+2020-11-03 11:55:30,283 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:30,283 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:30,284 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:30,284 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:30,779 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:30 2020', 'alert': 'OK'}
+2020-11-03 11:55:30,779 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov  3 11:55:30 2020', 'alert': 'OK'}
+2020-11-03 11:55:38,796 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:38,796 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdas',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:44,620 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:55:44,620 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadasd',), {'user_to': 'Guest', 'user_from': 'Guest'}. Вызов из модуля client.Вызов из функции main
+2020-11-03 11:57:25,606 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:57:25,606 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:57:25,606 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-03 11:57:25,606 ERROR client.py Соединение с сервером 127.0.0.1 было потеряно.
+2020-11-10 01:39:37,374 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:39:37,374 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:40:51,542 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:40:51,542 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:41:22,894 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:41:22,894 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:41:22,900 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:41:22,900 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:41:22,901 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:41:22,901 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:41:23,396 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:41:23 2020', 'alert': 'OK'}
+2020-11-10 01:41:23,396 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:41:23 2020', 'alert': 'OK'}
+2020-11-10 01:42:22,001 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:42:22,001 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:42:22,008 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:22,008 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:22,008 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:22,008 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:22,503 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:22 2020', 'alert': 'OK'}
+2020-11-10 01:42:22,503 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:22 2020', 'alert': 'OK'}
+2020-11-10 01:42:42,238 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:42:42,238 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:42:42,245 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:42,245 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:42,245 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:42,245 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:42,740 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:42 2020', 'alert': 'OK'}
+2020-11-10 01:42:42,740 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:42 2020', 'alert': 'OK'}
+2020-11-10 01:42:47,948 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:42:47,948 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:42:47,955 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:47,955 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:47,955 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:47,955 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:42:48,450 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:48 2020', 'alert': 'OK'}
+2020-11-10 01:42:48,450 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:42:48 2020', 'alert': 'OK'}
+2020-11-10 01:42:57,708 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dsfsdf', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:42:57,708 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dsfsdf', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:44:06,499 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:44:06,499 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:44:06,506 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:06,506 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:06,507 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:06,507 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:07,001 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:07 2020', 'alert': 'OK'}
+2020-11-10 01:44:07,001 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:07 2020', 'alert': 'OK'}
+2020-11-10 01:44:08,420 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:44:08,420 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:44:08,426 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:08,426 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:08,426 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:08,426 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:08,922 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:08 2020', 'alert': 'OK'}
+2020-11-10 01:44:08,922 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:08 2020', 'alert': 'OK'}
+2020-11-10 01:44:11,163 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:44:11,163 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:44:11,170 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:11,170 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:11,170 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:11,170 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:44:11,666 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:11 2020', 'alert': 'OK'}
+2020-11-10 01:44:11,666 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:44:11 2020', 'alert': 'OK'}
+2020-11-10 01:44:20,371 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:44:20,371 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('sadas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:45:35,466 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:45:35,466 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:45:35,472 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:35,472 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:35,472 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:35,472 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:35,968 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:35 2020', 'alert': 'OK'}
+2020-11-10 01:45:35,968 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:35 2020', 'alert': 'OK'}
+2020-11-10 01:45:40,599 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:45:40,599 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:45:40,605 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:40,605 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:40,605 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:40,605 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:41,101 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:41 2020', 'alert': 'OK'}
+2020-11-10 01:45:41,101 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:41 2020', 'alert': 'OK'}
+2020-11-10 01:45:45,099 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:45:45,099 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:45:45,106 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:45,106 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:45,106 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:45,106 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:45:45,601 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:45 2020', 'alert': 'OK'}
+2020-11-10 01:45:45,601 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:45:45 2020', 'alert': 'OK'}
+2020-11-10 01:45:55,939 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:45:55,939 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:46:20,178 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:46:20,178 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:46:20,186 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:20,186 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:20,186 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:20,186 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:20,680 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:20 2020', 'alert': 'OK'}
+2020-11-10 01:46:20,680 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:20 2020', 'alert': 'OK'}
+2020-11-10 01:46:21,946 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:46:21,946 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:46:21,952 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:21,952 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:21,953 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:21,953 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:22,448 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:22 2020', 'alert': 'OK'}
+2020-11-10 01:46:22,448 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:22 2020', 'alert': 'OK'}
+2020-11-10 01:46:24,417 INFO client.py Клиент user3 завершил работу.
+2020-11-10 01:46:24,417 INFO client.py Клиент user3 завершил работу.
+2020-11-10 01:46:24,920 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2020-11-10 01:46:24,920 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2020-11-10 01:46:27,019 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:46:27,019 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:46:27,026 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:27,026 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:27,026 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:27,026 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:46:27,521 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:27 2020', 'alert': 'OK'}
+2020-11-10 01:46:27,521 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:46:27 2020', 'alert': 'OK'}
+2020-11-10 01:46:44,602 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasd', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:46:44,602 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasd', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:50:04,174 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:50:04,174 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:50:04,180 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:04,180 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:04,181 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:04,181 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:04,676 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:50:04 2020', 'alert': 'OK'}
+2020-11-10 01:50:04,676 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:50:04 2020', 'alert': 'OK'}
+2020-11-10 01:50:07,022 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:50:07,022 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:50:07,028 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:07,028 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:07,029 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:07,029 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:50:07,524 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:50:07 2020', 'alert': 'OK'}
+2020-11-10 01:50:07,524 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:50:07 2020', 'alert': 'OK'}
+2020-11-10 01:50:13,418 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dsasdasda', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:50:13,418 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dsasdasda', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:51:47,957 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:51:47,957 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:51:47,964 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:51:47,964 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:51:47,964 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:51:47,964 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:51:48,459 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:51:48 2020', 'alert': 'OK'}
+2020-11-10 01:51:48,459 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:51:48 2020', 'alert': 'OK'}
+2020-11-10 01:52:24,487 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dasdas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:52:24,487 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('dasdas', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:52:24,505 INFO client.py Пользователь user2 получил сообщение dasdas от пользователя user3
+2020-11-10 01:52:24,505 INFO client.py Пользователь user2 получил сообщение dasdas от пользователя user3
+2020-11-10 01:53:44,847 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:53:44,847 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user1.
+2020-11-10 01:53:44,854 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:44,854 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:44,854 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:44,854 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:45,349 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:45 2020', 'alert': 'OK'}
+2020-11-10 01:53:45,349 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:45 2020', 'alert': 'OK'}
+2020-11-10 01:53:48,394 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:53:48,394 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user2.
+2020-11-10 01:53:48,400 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:48,400 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:48,401 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:48,401 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:48,895 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:48 2020', 'alert': 'OK'}
+2020-11-10 01:53:48,895 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:48 2020', 'alert': 'OK'}
+2020-11-10 01:53:51,009 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:53:51,009 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: user3.
+2020-11-10 01:53:51,015 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:51,015 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:51,016 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:51,016 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2020-11-10 01:53:51,511 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:51 2020', 'alert': 'OK'}
+2020-11-10 01:53:51,511 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Tue Nov 10 01:53:51 2020', 'alert': 'OK'}
+2020-11-10 01:54:01,070 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('user1', 'user1'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:01,070 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('user1', 'user1'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:01,524 INFO client.py Пользователь user1 получил сообщение user1 от пользователя user3
+2020-11-10 01:54:01,524 INFO client.py Пользователь user1 получил сообщение user1 от пользователя user3
+2020-11-10 01:54:10,637 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('user2', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:10,637 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('user2', 'user2'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:11,037 INFO client.py Пользователь user2 получил сообщение user2 от пользователя user3
+2020-11-10 01:54:11,037 INFO client.py Пользователь user2 получил сообщение user2 от пользователя user3
+2020-11-10 01:54:46,293 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasdas', 'user3'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:46,293 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('asdasdas', 'user3'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2020-11-10 01:54:46,583 INFO client.py Пользователь user3 получил сообщение asdasdas от пользователя user1
+2020-11-10 01:54:46,583 INFO client.py Пользователь user3 получил сообщение asdasdas от пользователя user1
+2020-11-10 01:55:08,412 CRITICAL client.py Соединение с сервером потеряно
+2020-11-10 01:55:08,412 CRITICAL client.py Соединение с сервером потеряно
+2020-11-10 01:55:08,413 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2020-11-10 01:55:08,413 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 14:31:02,121 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 14:31:02,121 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 14:31:07,211 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:07,211 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:07,212 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:07,212 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:07,700 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:31:07 2021', 'alert': 'OK'}
+2021-01-29 14:31:07,700 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:31:07 2021', 'alert': 'OK'}
+2021-01-29 14:31:23,297 INFO client.py Клиент listen завершил работу.
+2021-01-29 14:31:23,297 INFO client.py Клиент listen завершил работу.
+2021-01-29 14:31:23,823 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 14:31:23,823 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 14:31:26,211 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 14:31:26,211 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 14:31:31,230 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:31,230 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:31,230 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:31,230 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:31:31,719 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:31:31 2021', 'alert': 'OK'}
+2021-01-29 14:31:31,719 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:31:31 2021', 'alert': 'OK'}
+2021-01-29 14:32:18,083 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: send.
+2021-01-29 14:32:18,083 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: send.
+2021-01-29 14:32:23,102 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:32:23,102 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:32:23,102 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:32:23,102 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 14:32:23,590 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:32:23 2021', 'alert': 'OK'}
+2021-01-29 14:32:23,590 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 14:32:23 2021', 'alert': 'OK'}
+2021-01-29 14:32:33,690 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ("hjjhhg'", 'kjdsfhks'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2021-01-29 14:32:33,690 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ("hjjhhg'", 'kjdsfhks'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2021-01-29 14:32:52,716 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('fjdsfsd', 'listen'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2021-01-29 14:32:52,716 DEBUG client.py Был вызван метод send_message_from_user класса Client c параметрами ('fjdsfsd', 'listen'), {}. Вызов из модуля client.Вызов из функции interact_with_user
+2021-01-29 14:32:53,128 INFO client.py Пользователь listen получил сообщение fjdsfsd от пользователя send
+2021-01-29 14:32:53,128 INFO client.py Пользователь listen получил сообщение fjdsfsd от пользователя send
+2021-01-29 15:08:23,492 INFO client.py Клиент listen завершил работу.
+2021-01-29 15:08:23,492 INFO client.py Клиент listen завершил работу.
+2021-01-29 15:08:24,007 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:08:24,007 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:13:36,888 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 15:13:36,888 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 15:13:41,977 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:13:41,977 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:13:41,977 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:13:41,977 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:13:42,455 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:13:42 2021', 'alert': 'OK'}
+2021-01-29 15:13:42,455 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:13:42 2021', 'alert': 'OK'}
+2021-01-29 15:16:38,020 INFO client.py Клиент listen завершил работу.
+2021-01-29 15:16:38,020 INFO client.py Клиент listen завершил работу.
+2021-01-29 15:16:38,534 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:16:38,534 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:16:42,663 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 15:16:42,663 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: listen.
+2021-01-29 15:16:47,684 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:16:47,684 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:16:47,684 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:16:47,684 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:16:48,172 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:16:48 2021', 'alert': 'OK'}
+2021-01-29 15:16:48,172 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:16:48 2021', 'alert': 'OK'}
+2021-01-29 15:17:01,937 CRITICAL client.py Соединение с сервером потеряно
+2021-01-29 15:17:01,937 CRITICAL client.py Соединение с сервером потеряно
+2021-01-29 15:17:01,937 CRITICAL client.py Соединение с сервером потеряно
+2021-01-29 15:17:01,937 CRITICAL client.py Соединение с сервером потеряно
+2021-01-29 15:17:01,938 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:17:01,938 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:17:01,939 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:17:01,939 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:26:59,497 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:26:59,497 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:27:04,514 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:27:04,514 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:27:04,515 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:27:04,515 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:27:05,004 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:27:05 2021', 'alert': 'OK'}
+2021-01-29 15:27:05,004 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:27:05 2021', 'alert': 'OK'}
+2021-01-29 15:27:08,677 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:27:08,677 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:27:09,179 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:27:09,179 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:36:01,535 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:36:01,535 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:36:06,554 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:36:06,554 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:36:06,555 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:36:06,555 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:36:07,043 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:36:07 2021', 'alert': 'OK'}
+2021-01-29 15:36:07,043 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:36:07 2021', 'alert': 'OK'}
+2021-01-29 15:36:08,938 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:36:08,938 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:36:09,440 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:36:09,440 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:37:25,639 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:37:25,639 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-29 15:37:30,658 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:37:30,658 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:37:30,659 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:37:30,659 DEBUG client.py Был вызван метод send_presense_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-29 15:37:31,147 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:37:31 2021', 'alert': 'OK'}
+2021-01-29 15:37:31,147 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Fri Jan 29 15:37:31 2021', 'alert': 'OK'}
+2021-01-29 15:37:33,950 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:37:33,950 INFO client.py Клиент client1 завершил работу.
+2021-01-29 15:37:34,452 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-29 15:37:34,452 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:26:45,501 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-31 13:26:45,501 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-31 13:26:50,521 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:26:50,521 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:26:50,522 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:26:50,522 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:26:51,102 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:26:51 2021', 'alert': 'OK'}
+2021-01-31 13:26:51,102 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:26:51 2021', 'alert': 'OK'}
+2021-01-31 13:27:00,168 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client2.
+2021-01-31 13:27:00,168 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client2.
+2021-01-31 13:27:05,186 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:27:05,186 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:27:05,187 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:27:05,187 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:27:05,756 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:27:05 2021', 'alert': 'OK'}
+2021-01-31 13:27:05,756 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:27:05 2021', 'alert': 'OK'}
+2021-01-31 13:29:19,943 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:29:19,943 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:29:19,943 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:29:19,943 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:29:19,945 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:29:19,945 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:29:19,945 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:29:19,945 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:31:34,124 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-31 13:31:34,124 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client1.
+2021-01-31 13:31:39,142 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:31:39,142 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:31:39,143 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:31:39,143 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:31:39,729 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:31:39 2021', 'alert': 'OK'}
+2021-01-31 13:31:39,729 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:31:39 2021', 'alert': 'OK'}
+2021-01-31 13:41:15,719 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:41:15,719 CRITICAL client.py Соединение с сервером потеряно
+2021-01-31 13:41:15,720 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:41:15,720 DEBUG client.py Был вызван метод run_listern_mode класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:41:30,250 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client3.
+2021-01-31 13:41:30,250 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client3.
+2021-01-31 13:41:35,256 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:8888, конечный компьютер отверг запрос на подключение.
+2021-01-31 13:41:35,256 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:8888, конечный компьютер отверг запрос на подключение.
+2021-01-31 13:41:37,996 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client4.
+2021-01-31 13:41:37,996 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client4.
+2021-01-31 13:41:43,002 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:8888, конечный компьютер отверг запрос на подключение.
+2021-01-31 13:41:43,002 CRITICAL client.py Не удалось подключиться к серверу 127.0.0.1:8888, конечный компьютер отверг запрос на подключение.
+2021-01-31 13:44:32,786 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client3.
+2021-01-31 13:44:32,786 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client3.
+2021-01-31 13:44:37,804 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:37,804 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:37,804 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:37,804 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:38,442 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:44:38 2021', 'alert': 'OK'}
+2021-01-31 13:44:38,442 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:44:38 2021', 'alert': 'OK'}
+2021-01-31 13:44:42,233 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client4.
+2021-01-31 13:44:42,233 INFO client.py Запущено клиентское приложение. IP-адрес сервера: 127.0.0.1, порт сервера: 8888, имя пользователя: client4.
+2021-01-31 13:44:47,251 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:47,251 DEBUG client.py Был вызван метод connect класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:47,251 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:47,251 DEBUG client.py Был вызван метод send_presence_message класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции main
+2021-01-31 13:44:47,935 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:44:47 2021', 'alert': 'OK'}
+2021-01-31 13:44:47,935 INFO client.py Установлено соединение с сервером. Ответ сервера: {'response': 200, 'time': 'Sun Jan 31 13:44:47 2021', 'alert': 'OK'}
+2021-01-31 13:44:51,285 INFO client.py Клиент client4 завершил работу.
+2021-01-31 13:44:51,285 INFO client.py Клиент client4 завершил работу.
+2021-01-31 13:44:51,787 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:44:51,787 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:44:54,064 INFO client.py Клиент client3 завершил работу.
+2021-01-31 13:44:54,064 INFO client.py Клиент client3 завершил работу.
+2021-01-31 13:44:54,566 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run
+2021-01-31 13:44:54,566 DEBUG client.py Был вызван метод interact_with_user класса Client c параметрами (), {}. Вызов из модуля client.Вызов из функции run

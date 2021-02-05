@@ -1,0 +1,44 @@
+2020-10-22 17:36:36,781 CRITICAL logs_utils.py Критическая ошибка
+2020-10-22 17:36:36,781 ERROR logs_utils.py Ошибка
+2020-10-22 17:36:36,781 DEBUG logs_utils.py Отладочная информация
+2020-10-22 17:36:36,782 INFO logs_utils.py Информационное сообщение
+2020-10-22 17:36:52,008 CRITICAL logs_utils.py Критическая ошибка
+2020-10-22 17:36:52,008 ERROR logs_utils.py Ошибка
+2020-10-22 17:36:52,008 DEBUG logs_utils.py Отладочная информация
+2020-10-22 17:36:52,009 INFO logs_utils.py Информационное сообщение
+2020-10-22 17:38:21,380 CRITICAL logs_utils.py Критическая ошибка
+2020-10-22 17:38:21,380 ERROR logs_utils.py Ошибка
+2020-10-22 17:38:21,380 DEBUG logs_utils.py Отладочная информация
+2020-10-22 17:38:21,381 INFO logs_utils.py Информационное сообщение
+2020-10-23 02:29:50,433 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:29:54,011 DEBUG server.py Был вызван метод response_to_client класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:34:26,527 CRITICAL logs_utils.py Критическая ошибка
+2020-10-23 02:34:26,527 ERROR logs_utils.py Ошибка
+2020-10-23 02:34:26,527 DEBUG logs_utils.py Отладочная информация
+2020-10-23 02:34:26,527 INFO logs_utils.py Информационное сообщение
+2020-10-23 02:36:12,752 DEBUG server.py Был вызван метод response_to_client класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:36:55,121 DEBUG server.py Был вызван метод response_to_client класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:37:02,736 DEBUG server.py Был вызван метод response_to_client класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:39:25,787 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-23 02:39:28,709 DEBUG server.py Был вызван метод response_to_client класса Server c параметрами (), {}. Вызов из модуля server.Вызов из функции main
+2020-10-30 12:42:30,016 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 12:48:34,847 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 12:51:32,938 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:16:50,997 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:18:53,946 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:21:08,543 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:23:09,125 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:24:04,906 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:27:30,461 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:29:36,300 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:31:37,465 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:33:04,315 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:34:15,749 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:42:11,679 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:44:53,705 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:45:41,481 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:46:57,404 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:48:45,314 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:50:34,835 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:50:56,362 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
+2020-10-30 15:52:48,247 DEBUG server.py Был вызван метод connect класса Server c параметрами (), {'timeout': 0.5}. Вызов из модуля server.Вызов из функции main
